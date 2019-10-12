@@ -111,7 +111,7 @@ The file details about the observations from the plots in Hemant_Kumar_Plots.zip
 		   https://data.gov.in/resources/variety-wise-daily-market-prices-apple-2019
 
 		2. Department of Agriculture, Cooperation & Farmers Welfare
-		   http://agricoop.nic.in/e bx 
+		   http://agricoop.nic.in/ 
 
 		3. Ministry of Agriculture & Farmers' Welfare
 		   http://agriculture.gov.in/
