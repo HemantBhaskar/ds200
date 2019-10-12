@@ -3,7 +3,7 @@ The file details about the observations from the plots in Hemant_Kumar_Plots.zip
 
 1. SCATTER PLOT:
 
-	1.1 Folder : SCATTER_PLOT
+	1.1 Folder: SCATTER_PLOT
 
 	1.2 Data Source: https://data.gov.in/resources/monthly-seasonal-and-annual-max-temp-series-1901-2017-0
 
@@ -53,7 +53,7 @@ The file details about the observations from the plots in Hemant_Kumar_Plots.zip
 
 2. BAR PLOT:
 
-	2.1 Folder : BAR_PLOT
+	2.1 Folder: BAR_PLOT
 
 	2.2 Data Source: https://data.gov.in/resources/variety-wise-daily-market-prices-apple-2019
 
